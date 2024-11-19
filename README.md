@@ -10,7 +10,8 @@ Africa Cybersecurity Bootcamp - Artificial intelligence
 
 Ping Pong Game (kind of)
 
-Using Python with PyQt6 library for diplaying the game interface/GUI.
+Using Python with PyQt6 library for diplaying the game interface/GUI. (For this reason you will have to install PyQt6
+in your system using " pip install pyqt6 "
 
 ---
 
