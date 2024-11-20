@@ -1,7 +1,7 @@
 """
-Name - Kidus Mengistu Gebremedhin
+Name: Kidus Mengistu Gebremedhin
 
-University - Mekelle University - Mekelle Institute of Technology
+University: Mekelle University - Mekelle Institute of Technology
 
 ---
 
